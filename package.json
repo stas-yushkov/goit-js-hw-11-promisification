@@ -1,22 +1,22 @@
 {
-  "name": "goit-js-hw-11-color-switch",
+  "name": "goit-js-hw-11-promisification",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://stas-yushkov.github.io/goit-js-hw-11-color-switch",
+  "homepage": "https://stas-yushkov.github.io/goit-js-hw-11-promisification",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-11-color-switch/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-11-promisification/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stas-yushkov/goit-js-hw-11-color-switch.git"
+    "url": "git+https://github.com/stas-yushkov/goit-js-hw-11-promisification.git"
   },
   "keywords": [],
   "author": "Stas Yushkov <stas.yushkov@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/stas-yushkov/goit-js-hw-11-color-switch/issues"
+    "url": "https://github.com/stas-yushkov/goit-js-hw-11-promisification/issues"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
